@@ -32,5 +32,5 @@ Click on the "Book" button to confirm the booking and save the information to th
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Screenshot
-![](
+![](https://github.com/FatemahNur/Busticketbookingsystem/blob/master/2024-05-29%20(2).png)
 
